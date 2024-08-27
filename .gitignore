@@ -1,0 +1,5 @@
+#will ignore any file called .env inside of our code and not upload them to github
+
+#we can use this file to save api keys that we use and its secured
+
+.env 
