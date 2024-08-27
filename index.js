@@ -1,4 +1,4 @@
-// Initialize the chatgpt api, and then we are going to prompt a user for a message, and continue the conversation until the user ends the file
+//Initialize the chatgpt api, and then we are going to prompt a user for a message, and continue the conversation until the user ends the file
 
 //importing packages
 
